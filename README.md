@@ -4,4 +4,4 @@ This is a repository to introduce how several Kalman Filter methods are utilized
 - [ ] basic Kalman filter
 - [ ] extended Kalman filter
 - [ ] unscented Kalman filter
-- [ ] multi-scale Kalman filter
+- [ ] multi-state constraint Kalman filter
